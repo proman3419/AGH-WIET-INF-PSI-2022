@@ -131,6 +131,5 @@ dmypy.json
 # PyCharm
 .idea/
 
-*.html
 *.zip
 *.rar
